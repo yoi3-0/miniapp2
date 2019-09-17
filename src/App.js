@@ -11,7 +11,7 @@ class App extends React.Component {
 		super(props);
 
 		this.state = {
-			activePanel: 'home',
+			activePanel: 'persik',
 			fetchedUser: null,
 		};
 	}
